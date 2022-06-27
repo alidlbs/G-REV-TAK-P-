@@ -1,0 +1,29 @@
+#govde{background-color: aqua;
+color: blue;
+text-align: center;
+vertical-align:center;}
+
+
+
+form p{
+    color: brown;
+    margin: 0%;
+}
+#fd{
+    border-spacing: 2; 
+  border-collapse: collapse; 
+ 
+  border-radius:6px;
+  overflow:hidden;
+  
+  margin:0 auto;
+  position:relative;
+}
+
+
+
+
+
+#alan{
+    background-color: blueviolet;
+}
